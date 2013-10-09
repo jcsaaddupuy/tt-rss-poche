@@ -71,7 +71,7 @@ class Poche extends Plugin {
     return "<img src=\"plugins/poche/poche.png\"
              style=\"cursor : pointer\" style=\"cursor : pointer\"
              onclick=\"poche(".$line["id"].")\"
-             class='tagsPic' title='".__('Bookmark on poche')."'>";
+             class='tagsPic' title='".__('Poche it!')."'>";
   }
 
   function inthepoche() {
